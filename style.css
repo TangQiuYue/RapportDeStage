@@ -105,12 +105,12 @@ p{
 }
 
 .stars {
-  background:#000 url(images/starry_night.png) repeat top center;
+  background:#000 url(starry_night.png) repeat top center;
   z-index:0;
 }
 
 .twinkling{
-  background:transparent url(images/twinkles.png) repeat top center;
+  background:transparent url(twinkles.png) repeat top center;
   z-index:1;
   animation:twinkleTwinkle 200s linear infinite;
 }
